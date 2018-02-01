@@ -1,0 +1,1 @@
+This notebook accompanies a paper by Augat, Helton, Klep and McCullough which appeared in Mathematische Annalen in 2018. The mathematics behind the notebook is described in that paper and some ofthe computations in the notebook are presented in the paper. The paper can also be found on arXive: https://arxiv.org/abs/1604.04952. 
