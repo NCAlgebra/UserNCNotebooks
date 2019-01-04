@@ -4,7 +4,9 @@ Repository of public Mathematica notebooks using NCAlgebra
 This repository arcHives Mathematica notebooks (.nb files) which were successful in various research projects.
 The primary purpose is to host notebooks that make use of NCAlgebra but other software are also welcome.
 
-## Intructions
+While you can browse and read pdf and md files directly on the screen, in order to run a notebook in Mathematica, the easiest way is to download the entire repository and locate the notebook on your computer.
+
+## Submission Intructions
 
 Submissions consist of 
 
