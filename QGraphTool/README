@@ -1,0 +1,4 @@
+This directory contains experimental files from Igor and Bill (June 2019, Fields Toronto).
+
+One of the files does SOS calculation doesn't work past 5 vertices in 4 colors.
+Another file is specialized to 3 colors and does not do SOS.
