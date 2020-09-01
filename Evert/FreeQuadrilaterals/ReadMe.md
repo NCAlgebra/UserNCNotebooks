@@ -2,7 +2,7 @@
 
 * Author: Eric Evert
 * Relevant Paper: https://arxiv.org/abs/2008.13250
-* Last updated date: 21/08/2020
+* Last updated date: 1 September 2020
 
 * This folder contains three notebooks. The notebooks are: 
 1. An NC Grobner basis computation using NCGBX.
