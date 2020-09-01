@@ -1,7 +1,7 @@
 # The Arveson Boundary of a Free Quadrilateral is given by a Noncommutative Variety
 
 * Author: Eric Evert
-* Relevant Paper: To be posted on ArXiv
+* Relevant Paper: https://arxiv.org/abs/2008.13250
 * Last updated date: 21/08/2020
 
 * This folder contains three notebooks. The notebooks are: 
