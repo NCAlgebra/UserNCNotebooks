@@ -10,6 +10,8 @@ After installing the user may call NCSpectrahedronExtreme with the command
 
 Warning: The command to call NCSpectrahedronExtreme was updated in Version 3.1.2. Older notebooks may need to update this command. 
 
+Warning: The NCSpectrahedronExtreme testing and beginner notebooks may be out of date with the current version. These will be updated at a later date. 
+
 A brief version history follows. Detailed lists of changes can be found at the end of the NCSE.m.
 
 
