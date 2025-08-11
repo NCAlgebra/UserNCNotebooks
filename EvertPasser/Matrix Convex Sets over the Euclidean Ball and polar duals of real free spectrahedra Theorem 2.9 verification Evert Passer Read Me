@@ -1,0 +1,9 @@
+Notebook: Matrix Convex Sets over the Euclidean Ball and polar duals of real free spectrahedra Theorem 2.9 verification Evert Passer.
+
+Authors: Eric Evert and Benjamin Passer.
+
+Publication: https://arxiv.org/pdf/2507.20325
+
+Instructions for notebook: The notebook requires NCSpectrahedronExtreme to run. NCSpectrahedronExtreme is available as a paclet and can be installed with the command 
+
+PacletInstall["https://www.wolframcloud.com/obj/ericmevert/NCSpectrahedronExtreme-3.1.2.paclet"]
