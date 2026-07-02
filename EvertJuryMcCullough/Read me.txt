@@ -1,0 +1,6 @@
+Notebook: Positivity Preseving Matrix Products Public 2Jul26
+
+Authors: Eric Evert, Mike Jury, and Scott McCullough
+
+Publication: Completely positive preserving products
+ArXiv: To Be Posted. 
