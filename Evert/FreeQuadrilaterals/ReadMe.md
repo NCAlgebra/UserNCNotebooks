@@ -2,7 +2,8 @@
 
 * Author: Eric Evert
 * Relevant Paper: https://arxiv.org/abs/2008.13250
-* Last updated date: 1 September 2020
+* Update history: 29 October 2026. Corrected an error in a GB reduction in the 1Sep20 version of "Free Quadrilateral NCGB computed using NCGBX" and updated the GB computation to be compatible with NCAlgebra 6.0.3. The updated version is "Free Quadrilateral NCGB computed using NCGBX 28Oct26"
+* 1Sep20: Initial Commit.
 
 * This folder contains three notebooks. The notebooks are: 
 1. An NC Grobner basis computation using NCGBX.
